@@ -1,0 +1,1 @@
+# global_industrial_new_item_setup_hunter_fan-ts-generator
